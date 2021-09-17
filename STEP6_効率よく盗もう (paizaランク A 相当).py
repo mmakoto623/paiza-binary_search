@@ -1,4 +1,4 @@
-#STEP7_効率よく盗もう (paizaランク A 相当).py
+#STEP6_効率よく盗もう (paizaランク A 相当).py
 
 import decimal
 
